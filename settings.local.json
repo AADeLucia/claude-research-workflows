@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export BMH_DIR=\"/Users/alexandra/Documents/Black Mental Health Reddit\")",
+      "Bash(python -m bmh_reddit.scripts.describe_annotation_rounds)"
+    ]
+  }
+}
